@@ -1,0 +1,22 @@
+<project name="soapui-test" default="testreport" basedir=".">
+<description>SOAP UI Testcase execution</description>
+
+
+<target name="soapui">
+        <exec dir="." executable="C:\Users\ab36194\AppData\Local\Programs\SmartBear\SoapUI-5.6.0\bin\testrunner.bat">
+		<arg line="-r -a -j -J -f 'C:\Training-PPT\Soapui-Report' -sTestSuite 'C:\Training-PPT\MyProjectReport\calculator-soapui-project.xml'"/>
+        </exec>
+	   
+</target>
+	
+<target name = "testreport" depends ="soapui"> 
+	  <junitreport todir="C:\Training-PPT\Soapui-Report"> 
+	     <fileset dir="C:\Training-PPT\Soapui-Report"> 
+	          <include name="TEST-*.xml"/> 
+	     </fileset> 
+	     <report todir="C:\Training-PPT\Soapui-Report\HTML"> 
+	     </report> 
+	  </junitreport> 
+	</target> 
+
+</project>

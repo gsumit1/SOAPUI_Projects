@@ -1,0 +1,80 @@
+2021-11-25 00:40:57,229 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\ab36194\soapui-settings.xml]
+2021-11-25 00:40:58,156 INFO  [Reflections] Reflections took 72 ms to scan 2 urls, producing 75 keys and 160 values 
+2021-11-25 00:40:58,205 INFO  [Reflections] Reflections took 15 ms to scan 1 urls, producing 46 keys and 344 values 
+2021-11-25 00:40:58,222 INFO  [Reflections] Reflections took 6 ms to scan 1 urls, producing 11 keys and 17 values 
+2021-11-25 00:40:58,242 INFO  [Reflections] Reflections took 6 ms to scan 1 urls, producing 13 keys and 21 values 
+2021-11-25 00:40:58,484 INFO  [Reflections] Reflections took 125 ms to scan 13 urls, producing 341 keys and 1458 values 
+2021-11-25 00:40:58,494 INFO  [PluginManager] Adding plugin from [C:\Users\ab36194\.soapuios\plugins\ready-mqtt-plugin-dist.jar]
+2021-11-25 00:40:58,494 INFO  [PluginManager] Adding plugin from [C:\Users\ab36194\.soapuios\plugins\soapui-swagger-plugin-2.2-dist.jar]
+2021-11-25 00:40:58,645 INFO  [Reflections] Reflections took 24 ms to scan 2 urls, producing 75 keys and 160 values 
+2021-11-25 00:40:58,812 INFO  [Reflections] Reflections took 123 ms to scan 13 urls, producing 341 keys and 1458 values 
+2021-11-25 00:40:59,114 INFO  [Reflections] Reflections took 461 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2021-11-25 00:40:59,134 INFO  [PluginManager] Adding plugin from [C:\Users\ab36194\.soapuios\plugins\ready-uxm-plugin-os-1.0.3.jar]
+2021-11-25 00:40:59,160 INFO  [Reflections] Reflections took 15 ms to scan 1 urls, producing 46 keys and 344 values 
+2021-11-25 00:40:59,254 INFO  [Reflections] Reflections took 430 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2021-11-25 00:40:59,273 INFO  [PluginManager] Adding plugin from [C:\Users\ab36194\.soapuios\plugins\readyapi-postman-1.0.1.jar]
+2021-11-25 00:40:59,289 INFO  [Reflections] Reflections took 5 ms to scan 1 urls, producing 11 keys and 17 values 
+2021-11-25 00:40:59,504 INFO  [Reflections] Reflections took 339 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2021-11-25 00:40:59,509 INFO  [PluginManager] Adding plugin from [C:\Users\ab36194\.soapuios\plugins\readyapi-swaggerhub-plugin-1.0.jar]
+2021-11-25 00:40:59,521 INFO  [Reflections] Reflections took 2 ms to scan 1 urls, producing 13 keys and 21 values 
+2021-11-25 00:40:59,616 INFO  [Reflections] Reflections took 320 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2021-11-25 00:40:59,795 INFO  [Reflections] Reflections took 271 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2021-11-25 00:40:59,802 INFO  [PluginManager] 5 plugins loaded in 1308 ms
+2021-11-25 00:40:59,802 INFO  [DefaultSoapUICore] All plugins loaded
+2021-11-25 00:41:01,049 INFO  [WsdlProject] Loaded project from [file:/C:/Training-PPT/MyProjectReport/calculator-soapui-project.xml]
+2021-11-25 00:41:01,055 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [calculator]
+2021-11-25 00:41:01,057 INFO  [SoapUITestCaseRunner] Running TestSuite [TestSuite], runType = SEQUENTIAL
+2021-11-25 00:41:01,062 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestCase]
+2021-11-25 00:41:01,073 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-11-25 00:41:01,120 INFO  [SoapUITestCaseRunner] running step [SOAP Request]
+2021-11-25 00:41:01,871 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-11-25 00:41:01,884 INFO  [SoapUITestCaseRunner] running step [Substract]
+2021-11-25 00:41:01,895 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Delete]
+2021-11-25 00:41:01,895 INFO  [SoapUITestCaseRunner] running step [SOAP Request]
+2021-11-25 00:41:02,410 INFO  [SchemaUtils] Added default schema from file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2021-11-25 00:41:02,423 INFO  [SchemaUtils] Added default schema from file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2021-11-25 00:41:02,427 INFO  [SchemaUtils] Added default schema from file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2021-11-25 00:41:02,430 INFO  [SchemaUtils] Added default schema from file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2021-11-25 00:41:02,433 INFO  [SchemaUtils] Added default schema from file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2021-11-25 00:41:02,437 INFO  [SchemaUtils] Added default schema from file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2021-11-25 00:41:02,439 INFO  [SchemaUtils] Added default schema from file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2021-11-25 00:41:02,443 INFO  [SchemaUtils] Added default schema from file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2021-11-25 00:41:02,448 INFO  [SchemaUtils] Added default schema from file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2021-11-25 00:41:02,451 INFO  [SchemaUtils] Added default schema from file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2021-11-25 00:41:02,798 INFO  [SchemaUtils] Loading schema types from [http://www.dneonline.com/calculator.asmx?WSDL]
+2021-11-25 00:41:02,798 INFO  [SchemaUtils] Getting schema http://www.dneonline.com/calculator.asmx?WSDL
+2021-11-25 00:41:02,953 WARN  [SchemaUtils] Error: jar:file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'ID' should only be used for attributes (used for element 'ID@http://www.w3.org/2003/05/soap-encoding').
+2021-11-25 00:41:02,953 WARN  [SchemaUtils] Error: jar:file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'IDREF' should only be used for attributes (used for element 'IDREF@http://www.w3.org/2003/05/soap-encoding').
+2021-11-25 00:41:02,953 WARN  [SchemaUtils] Error: jar:file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'ENTITY' should only be used for attributes (used for element 'ENTITY@http://www.w3.org/2003/05/soap-encoding').
+2021-11-25 00:41:02,953 WARN  [SchemaUtils] Error: jar:file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'IDREFS' should only be used for attributes (used for element 'IDREFS@http://www.w3.org/2003/05/soap-encoding').
+2021-11-25 00:41:02,953 WARN  [SchemaUtils] Error: jar:file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'ENTITIES' should only be used for attributes (used for element 'ENTITIES@http://www.w3.org/2003/05/soap-encoding').
+2021-11-25 00:41:02,954 WARN  [SchemaUtils] Error: jar:file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'ID' should only be used for attributes (used for element 'ID@http://schemas.xmlsoap.org/soap/encoding/').
+2021-11-25 00:41:02,954 WARN  [SchemaUtils] Error: jar:file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'IDREF' should only be used for attributes (used for element 'IDREF@http://schemas.xmlsoap.org/soap/encoding/').
+2021-11-25 00:41:02,954 WARN  [SchemaUtils] Error: jar:file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'ENTITY' should only be used for attributes (used for element 'ENTITY@http://schemas.xmlsoap.org/soap/encoding/').
+2021-11-25 00:41:02,954 WARN  [SchemaUtils] Error: jar:file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'IDREFS' should only be used for attributes (used for element 'IDREFS@http://schemas.xmlsoap.org/soap/encoding/').
+2021-11-25 00:41:02,954 WARN  [SchemaUtils] Error: jar:file:/C:/Users/ab36194/AppData/Local/Programs/SmartBear/SoapUI-5.6.0/bin/soapui-5.6.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd:0: warning: id-idref-idrefs-entity-entities-notation: For compatibility, type 'ENTITIES' should only be used for attributes (used for element 'ENTITIES@http://schemas.xmlsoap.org/soap/encoding/').
+2021-11-25 00:41:02,980 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2021-11-25 00:41:02,980 INFO  [SoapUITestCaseRunner] Assertion [XPath Match] has status VALID
+2021-11-25 00:41:02,981 INFO  [SoapUITestCaseRunner] Assertion [XmlCotent] has status VALID
+2021-11-25 00:41:02,981 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-11-25 00:41:03,088 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Delete], time taken: 1084ms, status: FINISHED
+2021-11-25 00:41:03,094 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestCase], time taken: 1966ms, status: FINISHED
+2021-11-25 00:41:03,098 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Delete]
+2021-11-25 00:41:03,098 INFO  [SoapUITestCaseRunner] running step [SOAP Request]
+2021-11-25 00:41:03,420 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2021-11-25 00:41:03,420 INFO  [SoapUITestCaseRunner] Assertion [XPath Match] has status VALID
+2021-11-25 00:41:03,420 INFO  [SoapUITestCaseRunner] Assertion [XmlCotent] has status VALID
+2021-11-25 00:41:03,421 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-11-25 00:41:03,429 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Delete], time taken: 321ms, status: FINISHED
+2021-11-25 00:41:03,430 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [MultiStep]
+2021-11-25 00:41:03,431 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-11-25 00:41:03,433 INFO  [SoapUITestCaseRunner] running step [Add]
+2021-11-25 00:41:03,741 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-11-25 00:41:03,748 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2021-11-25 00:41:03,974 INFO  [log] Value is 30
+2021-11-25 00:41:03,981 INFO  [SoapUITestCaseRunner] running step [Multiply]
+2021-11-25 00:41:04,287 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-11-25 00:41:04,302 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [MultiStep], time taken: 841ms, status: FINISHED
+2021-11-25 00:41:04,305 INFO  [SoapUITestCaseRunner] TestSuite [TestSuite] finished with status [FINISHED] in 3243ms
+2021-11-25 00:41:04,315 WARN  [Tools] Could not delete temporary directory C:\Windows\Temp\abaff148-bc1a-413f-9f2d-c0886f5c6380
+2021-11-25 00:41:04,325 WARN  [Tools] Could not delete temporary directory C:\Windows\Temp\51a2fd20-ce89-418b-ac05-13b66459bc2b
